@@ -1,6 +1,6 @@
 # [S V Praveen - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-A e-resume to make good use of GitHub static pages!!
+An e-resume to make good use of GitHub static pages!!
 
 [Visit Official Page](https://svp19.github.io)
 
