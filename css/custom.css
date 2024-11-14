@@ -230,3 +230,34 @@
 [data-theme="dark"] .navbar-brand { color: white;!important }
 [data-theme="dark"] .nav-item .nav-link.active { color: rgb(199, 215, 224);!important }
 [data-theme="dark"] .lead { color: rgb(199, 215, 224);!important }
+
+
+
+
+/* Style each letter in the Google logo */
+.google-logo {
+}
+
+.google-logo .letter {
+    color: #4285F4; /* Default color for 'G' */
+}
+
+.google-logo .letter:nth-child(2) {
+    color: #EA4335; /* 'o' */
+}
+
+.google-logo .letter:nth-child(3) {
+    color: #FBBC05; /* Second 'o' */
+}
+
+.google-logo .letter:nth-child(4) {
+    color: #4285F4; /* 'g' */
+}
+
+.google-logo .letter:nth-child(5) {
+    color: #34A853; /* 'l' */
+}
+
+.google-logo .letter:nth-child(6) {
+    color: #EA4335; /* 'e' */
+}
